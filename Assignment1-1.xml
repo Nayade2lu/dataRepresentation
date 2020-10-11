@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<library> 
+	<catalogue type=”technical”>
+		<book> 
+			<ISBN>9788425223280</ISBN> 
+			<Title>Master IT</Title> 
+			<Author>James Morgan</Author> 
+		</book> 
+		<book> 
+			<ISBN>9788425223760</ISBN> 
+			<Title>Software development: Python</Title> 
+			<Author>Claire Boltain</Author> 
+		</book> 
+	</catalogue>
+
+	<catalogue type=”cookery”>
+		<book> 
+			<ISBN>9788433223760</ISBN> 
+			<Title>Belgian Waffles</Title> 
+			<Author>Thomas Jusfor</Author> 
+		</book> 
+		<book> 
+			<ISBN>6688433223760</ISBN> 
+			<Title>Mediterranean recipes</Title> 
+			<Author>Monica Salvador</Author> 
+		</book> 
+	</catalogue>
+
+</library> 
